@@ -7,10 +7,11 @@ The `ServiceListMicroservice` project is a Java-based microservice designed to m
 
 ## Related Projects
 
-- [Service Registration Microservice](https://github.com/mahirgamal/ServiceRegistrationMicroservice): A microservice that handles the registration of new services, which can be listed using the Service List Microservice.
-- [User Management Microservice](https://github.com/mahirgamal/UserManagementMicroservice): A microservice dedicated to managing user profiles and permissions, integrating with the service listing to manage access control.
-- [Notification Service](https://github.com/mahirgamal/NotificationService): Sends notifications related to changes in service listings, such as new services added or removed.
-- [Audit Logging Microservice](https://github.com/mahirgamal/AuditLoggingMicroservice): Tracks changes and interactions with service listings for security and compliance purposes.
+- [LEI Schema](https://github.com/mahirgamal/LEI-schema): Defines the standardized schema for livestock event information.
+- [LEISA](https://github.com/mahirgamal/LEISA): The architecture framework for sharing livestock event information.
+- [LEI2JSON](https://github.com/mahirgamal/LEI2JSON): A tool to convert LEI data into JSON format for easy processing.
+- [AgriVet Treatment Grapher](https://github.com/mahirgamal/AgriVet-Treatment-Grapher): A Python-based tool designed to visualise treatment data for animals, helping veterinarians and researchers analyse treatment patterns and dosages.
+- [Cattle Location Monitor](https://github.com/mahirgamal/Cattle-Location-Monitor): A system that monitors cattle location using GPS data to provide real-time insights into cattle movements and positioning.
   
 ## Features
 
